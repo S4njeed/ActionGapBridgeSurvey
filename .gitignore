@@ -1,0 +1,4 @@
+# nothing here should ever hold response data
+data/
+*.csv
+*.log
