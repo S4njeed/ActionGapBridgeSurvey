@@ -3,7 +3,7 @@
 Static survey page for a study on how people judge simulated robot navigation in a
 hospital environment. Final-year project, King's College London.
 
-**Live:** https://saninja2134.github.io/ActionGapBridgeSurvey/
+**Live:** https://S4njeed.github.io/ActionGapBridgeSurvey/
 
 ## Contents
 
